@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+h2{
+    color:black;
+    display: block;
+    font-size: medium;
+    font-weight: 300;
+}
+body{
+    background-color: aquamarine;
+    flex-grow: inherit;
+}
